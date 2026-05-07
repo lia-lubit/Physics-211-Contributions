@@ -134,3 +134,6 @@ At some point, the Saha equation breaks down, and we are forced to solve the ful
 (We'll leave that to the reader.)
 
 ### References
+Cosmology II. Hans Winther. https://cmb.wintherscoming.no/theory_thermodynamics.php.
+
+Ionization, Saha Equation. Princeton University. https://www.astro.princeton.edu/~gk/A403/ioniz.pdf.
