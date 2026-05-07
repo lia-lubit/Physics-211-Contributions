@@ -1,4 +1,5 @@
 ### Statisical Mechanics and Cosmology 
+## Lia Lubit
 Modeling the universe, with its many different types of interacting particles, requires that cosmologists use equations from statistical mechanics. 
 In these notes, we link cosmology and statistical mechanics, focusing specifically on the Boltzmann equation and the physics of recombination. 
 Recombination occured approximately 378,000 years after the birth of the universe, and saw protons and electrons first join together into neutral atoms. 
