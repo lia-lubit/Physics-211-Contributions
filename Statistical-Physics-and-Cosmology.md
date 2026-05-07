@@ -78,7 +78,7 @@ The 0th moment of the Boltzmann equation is
 
 $$\frac{1}{a^3} \frac{d(na^3)}{dt} = 0 \implies n \propto \frac{1}{a^3}$$
 
-### Part 3: Particle Reactions
+### Part 4: Particle Reactions
 
 We can use the above equation to learn about particle number densities in chemical reactions. The most common chemical reactions in the early universe take the form $1+2 \leftrightarrow 3+4$ reaction:
 
@@ -120,6 +120,8 @@ $$\frac{d(n_1 a^3)}{dx} \approx 0 \implies n_1 \propto 1/a^3$$
 <ul>
 This equations describes the regular volume dilution that occurs in an expanding universe. From this point on, though the volume of the universe increases, the number of particles per co-moving volume remains the same. As such, the particle density starts decreasing with the volume. Cosmologists call this 'freeze out', and consider it a possible source of dark matter. 
 </ul>
+
+### Part 5: The Saha Approximation
 
 The first regime, before decoupling, is particularly interesting. In this case, $\frac{\Gamma_1}{H}$ is very large. Dividing both sides of our earlier equation by this fraction, we see that 
 
