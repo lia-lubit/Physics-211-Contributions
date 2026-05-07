@@ -8,7 +8,7 @@ Following recombination, more complex atoms were formed. The equations that gove
 
 ### Part 1: The Distribution Function
 
-The distribution function $f(t, \vec{x}, \vec{p})$ describes the number of particles that exist in some small phase space volume:
+The distribution function $f(t, \vec{x}, \vec{p})$ describes the number of particles that exist in some small piece of phase space, stating that
 
 $$\Delta N = \frac{g}{(2\pi)^3} f(t, \vec{x}, \vec{p}) (\Delta \vec{x})^3 (\Delta \vec{p})^3$$
 
