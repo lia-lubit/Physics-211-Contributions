@@ -78,7 +78,7 @@ The 0th moment of the Boltzmann equation is
 
 $$\frac{1}{a^3} \frac{d(na^3)}{dt} = 0 \implies n \propto \frac{1}{a^3}$$
 
-### Part 4: Particle Reactions
+### Part 3: Particle Reactions
 
 We can use the above equation to learn about particle number densities in chemical reactions. The most common chemical reactions in the early universe take the form $1+2 \leftrightarrow 3+4$ reaction:
 
@@ -106,23 +106,21 @@ or
 
 $$\frac{1}{a^3} \frac{d(n_1 a^3)}{dt} = -\langle \sigma v \rangle \left( n_1 n_2 - n_3 n_4 \left[ \frac{n_1 n_2}{n_3 n_4} \right]_{eq} \right)$$
 
-Above, $\Gamma_1 = n_2 \langle\sigma v\rangle$ is the interaction rate and $H$ is the expansion rate.
-If $\Gamma_1$ is much larger than $H$, then many interactions happen in the time it takes the universe to increase in size, 
+Above, $\Gamma_1 = n_2 \langle\sigma v\rangle$ is the interaction rate and $H$ is the expansion rate. This equation has three regimes:
+
+1. When $\Gamma_1$ is much larger than $H$, then many interactions happen in the time it takes the universe to increase in size, 
 and so it is easy to maintain equilibrium. 
 
-When $\Gamma_1$ is less than $H$, the interactions are too slow to keep the system in equilibrium.
-Cosmologists call this 'decoupling.' After decopuling, the particle species evolves on its own, separate from the rest of the particles.
+2. When $\Gamma_1$ is less than $H$, the interactions are too slow to keep the system in equilibrium. Cosmologists call this 'decoupling.' After decopuling, the particle species evolves on its own, separate from the rest of the particles.
 
-When $\Gamma_1$ is much less than $H$, our equation becomes
+3. When $\Gamma_1$ is much less than $H$, our equation becomes
 
 $$\frac{d(n_1 a^3)}{dx} \approx 0 \implies n_1 \propto 1/a^3$$
 
 This equations describes the regular volume dilution that occurs in an expanding universe.
-From this point on, though the volume of the universe increases, the number of particles per co-moving volume remains the same. 
-As such, the particle density starts decreasing with the volume. Cosmologists call this 'freeze out', and consider it a possible source of dark matter. 
+From this point on, though the volume of the universe increases, the number of particles per co-moving volume remains the same. As such, the particle density starts decreasing with the volume. Cosmologists call this 'freeze out', and consider it a possible source of dark matter. 
 
-When interactions are efficient, $\frac{\Gamma_1}{H}$ is very large. Dividing both sides of our earlier equation by this fraction,
-we get 
+The first regime, before decoupling, is particularly interesting. In this case, $\frac{\Gamma_1}{H}$ is very large. Dividing both sides of our earlier equation by this fraction, we see that 
 
 $$\left(1 - \frac{n_3 n_4}{n_1 n_2} \left( \frac{n_1 n_2}{n_3 n_4} \right)_{\text{eq}}\right) \approx 0$$
 
@@ -134,3 +132,5 @@ Solving the Saha approximation equation allows us to see how different number de
 It is particularly useful for tracking the evolution of the universe from an opaque plasma to a transparent body of atoms. 
 At some point, the Saha equation breaks down, and we are forced to solve the full, much more complication, Boltzmann equations.
 (We'll leave that to the reader.)
+
+### References
