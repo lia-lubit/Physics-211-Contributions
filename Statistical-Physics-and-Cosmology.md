@@ -117,11 +117,9 @@ and so it is easy to maintain equilibrium.
 
 $$\frac{d(n_1 a^3)}{dx} \approx 0 \implies n_1 \propto 1/a^3$$
 
-<blockquote>
+<ul>
 This equations describes the regular volume dilution that occurs in an expanding universe. From this point on, though the volume of the universe increases, the number of particles per co-moving volume remains the same. As such, the particle density starts decreasing with the volume. Cosmologists call this 'freeze out', and consider it a possible source of dark matter. 
-</blockquote>
-
-When $\Gamma_1$ is much less than $H$, our equation becomes:$$\frac{d(n_1 a^3)}{dx} \approx 0 \implies n_1 \propto 1/a^3$$This equation describes the regular volume dilution that occurs in an expanding universe. From this point on, though the volume of the universe increases, the number of particles per co-moving volume remains the same. As such, the particle density starts decreasing with the volume. Cosmologists call this "freeze out", and consider it a possible source of dark matter.
+</ul>
 
 The first regime, before decoupling, is particularly interesting. In this case, $\frac{\Gamma_1}{H}$ is very large. Dividing both sides of our earlier equation by this fraction, we see that 
 
