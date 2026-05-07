@@ -37,7 +37,7 @@ Under GR, the Boltzmann equation is
 
 $$\frac{df}{d\lambda} = C(f)$$
 
-Here, $\lambda$ is an affine parameter, and C is the collision term. C gives details of the particles' interactions.
+Here, $\lambda$ is an affine parameter and C, the 'collision term,' details the particles' interactions.
 
 In phase space coordinates, with position x and momentum P, we can expand the Boltzmann equation to get
 
