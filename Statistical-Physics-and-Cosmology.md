@@ -49,7 +49,7 @@ $$\frac{\partial n}{\partial t} + \nabla_x \cdot (n \vec{V}) = 0$$
 
 $$\frac{\partial \vec{V}}{\partial t} + (\vec{V} \cdot \nabla)\vec{V} = -\frac{\nabla_j P_{ij}}{\rho} + \frac{\vec{F}}{m}$$
 
-### Part 4: The Boltzmann Equation in a Smooth Universe
+### Part 3: The Boltzmann Equation in a Smooth Universe
 
 The Boltzmann equation and its moments are extremely useful for cosmology. In order to use it, we must first choose a metric. A classic choice is the FLRW metric:
 
@@ -78,9 +78,9 @@ The 0th moment of the Boltzmann equation is
 
 $$\frac{1}{a^3} \frac{d(na^3)}{dt} = 0 \implies n \propto \frac{1}{a^3}$$
 
-### Part 5: Particle Reactions
+### Part 4: Particle Reactions
 
-The most common chemical reactions in the early universe take the form $1+2 \leftrightarrow 3+4$ reaction:
+We can use the above equation to learn about particle number densities in chemical reactions. The most common chemical reactions in the early universe take the form $1+2 \leftrightarrow 3+4$ reaction:
 
 $$e^- + p^+ \rightleftharpoons e^- + p^+$$
 
