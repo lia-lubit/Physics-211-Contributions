@@ -7,6 +7,8 @@ Best,
 
 Lia Lubit
 
+
+
 References: 
 
 Cosmology II. Hans Winther. https://cmb.wintherscoming.no/theory_thermodynamics.php. 
