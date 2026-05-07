@@ -6,11 +6,3 @@ Note: Hello! This folder contains new lecture notes for the physics 211 github. 
 Best,
 
 Lia Lubit
-
-
-
-References: 
-
-Cosmology II. Hans Winther. https://cmb.wintherscoming.no/theory_thermodynamics.php. 
-
-Ionization, Saha Equation. Princeton University. https://www.astro.princeton.edu/~gk/A403/ioniz.pdf. 
