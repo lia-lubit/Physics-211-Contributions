@@ -51,15 +51,11 @@ $$\frac{\partial \vec{V}}{\partial t} + (\vec{V} \cdot \nabla)\vec{V} = -\frac{\
 
 ### Part 4: The Boltzmann Equation in a Smooth Universe
 
-A standard, simple metric for cosmology is the FLRW metric:
+The Boltzmann equation and its moments are extremely useful for cosmology. In order to use it, we must first choose a metric. A classic choice is the FLRW metric:
 
 $$ds^2 = -dt^2 + a^2(t) \left[ \frac{dr^2}{1 - kr^2} + r^2(d\theta^2 + \sin^2\theta d\phi^2) \right]$$
 
-where $a(t)$ is the scale factor describing the expansion of the universe
-
-$k$ is the curvature parameter ($k=1$ for a closed universe, $k=0$ for flat, and $k=-1$ for open)
-
-and $d\Omega^2$ is the metric on a 2-sphere ($d\theta^2 + \sin^2\theta d\phi^2$).
+Above $a(t)$ is the scale factor describing the expansion of the universe, $k$ is the curvature parameter ($k=1$ for a closed universe, $k=0$ for flat, and $k=-1$ for open), and $d\Omega^2$ is the metric on a 2-sphere ($d\theta^2 + \sin^2\theta d\phi^2$).
 
 Under this metric, photons obey $P^0 = E$ and $P^i = p\hat{p}^i a^{-1}$, where $E = p$.
 The geodesic is then 
