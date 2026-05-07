@@ -104,7 +104,7 @@ $$\frac{1}{a^3} \frac{d(n_1 a^3)}{dt} = -\langle \sigma v \rangle \left( n_1 n_2
 
 or 
 
-$$\frac{1}{a^3} \frac{d(n_1 a^3)}{dt} = -\langle \sigma v \rangle \left( n_1 n_2 - n_3 n_4 \left[ \frac{n_1 n_2}{n_3 n_4} \right]_{eq} \right)$$
+$$\frac{1}{n_1 a^3} \frac{d(n_1 a^3)}{dx} = -\frac{\Gamma_1}{H} \left( 1 - \frac{n_3 n_4}{n_1 n_2} \left( \frac{n_1 n_2}{n_3 n_4} \right)_{\text{eq}} \right)$$
 
 Above, $\Gamma_1 = n_2 \langle\sigma v\rangle$ is the interaction rate and $H$ is the expansion rate. This equation has three regimes:
 
